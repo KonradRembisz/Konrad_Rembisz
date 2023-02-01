@@ -1,6 +1,7 @@
 #include <iostream>
 #include "sequence.h"
 
+
 // Konstruktor domyślny
 Sequence::Sequence(int x, int y){
     this->x = x;

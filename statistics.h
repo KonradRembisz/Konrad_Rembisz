@@ -4,7 +4,6 @@
 #include <iostream>
 
 
-
 class Statistics{
 public:
 //! \brief Przykładowy wzór:

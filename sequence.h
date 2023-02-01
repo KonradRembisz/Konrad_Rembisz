@@ -4,7 +4,6 @@
 #include <iostream>
 
 
-
 class Sequence{
 public:
 /**

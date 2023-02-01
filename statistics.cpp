@@ -1,6 +1,7 @@
 #include <iostream>
 #include "statistics.h"
 
+
 // Konstruktor domyślny
 Statistics::Statistics(int x, int y){
     this->x = x;
