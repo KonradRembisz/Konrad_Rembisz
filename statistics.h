@@ -7,7 +7,7 @@
 
 class Statistics{
 public:
-//! \brief Inny przykładowy wzór:
+//! \brief Przykładowy wzór:
 //! \f[
 //!    |I_2|=\left| \int_{0}^T \psi(t) 
 //!             \left\{ 

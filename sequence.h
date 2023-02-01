@@ -8,7 +8,7 @@
 class Sequence{
 public:
 /**
- * @brief Oblicza rozmycie Gaussa.
+ * @brief Oblicz rozmycie Gaussa.
  * 
  * @details Rozmycie Gaussa jest jednym z popularnych filtrów obrazów, którego celem jest usuwanie szumów. 
  * Wzór na rozmycie Gaussa jest następujący:
